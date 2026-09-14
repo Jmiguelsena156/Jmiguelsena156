@@ -1,6 +1,4 @@
-[```js
-console.log("Bem Vindo ao perfil");
-```]
+![console.log("Bem Vindo");](escrever.svg)
 
 <!--
 **Jmiguelsena156/Jmiguelsena156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
